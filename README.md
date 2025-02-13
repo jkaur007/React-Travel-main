@@ -1,7 +1,7 @@
 # React - Business Card
-## [Live Demo](https://react-travel-site.netlify.app/)
+## [Live Demo](https://67ad593b086c68f9c9a756f0--magical-concha-9e3921.netlify.app/
 ## [Video Demo](https://youtu.be/eipM1smJBEU)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e41df579-3605-49d1-be91-5a0948275fee/deploy-status)](https://app.netlify.com/sites/react-travel-site/deploys)
+[![Netlify Status](https://67ad593b086c68f9c9a756f0--magical-concha-9e3921.netlify.app/magical-concha-9e3921.netlify.app)
 
 
 
