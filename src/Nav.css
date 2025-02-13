@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+nav{
+    background-color: #6d15e0;
+    padding: 1.5rem;
+    display: flex;
+    justify-content: center;
+    gap: .5rem;
+    align-items: center;
+    font-weight: 400;
+}
+
+nav h6{
+    color: white;
+    font-size: 2.5rem;
+
+}
+.logo{
+    height: 50px;
+    width: auto;
+    align-items: flex-start;
+}
