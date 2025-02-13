@@ -1,7 +1,7 @@
 # React - Business Card
 ## [Live Demo](https://67ad593b086c68f9c9a756f0--magical-concha-9e3921.netlify.app/
 ## [Video Demo](https://youtu.be/eipM1smJBEU)
-[![Netlify Status](https://67ad593b086c68f9c9a756f0--magical-concha-9e3921.netlify.app/)
+
 
 
 
